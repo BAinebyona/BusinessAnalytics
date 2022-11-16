@@ -13,3 +13,7 @@ In this series of notebooks we shall carry out Business Analytics for a UK-based
     - customer retention and churn
 - perform customer segmentation based on techniques such a Recency, Frequency and Monetary (RFM), KMeans clustering. The purpose of this will be to clearly identify main characteristics of the consumers in each segment and provide recommendations on customer-centric marketing
 - we conclude the series by performing predictive analytics such Customer Lifetime Value (CLV)
+
+
+## Reference
+1. Chen, D., Sain, S.L. and Guo, K. 2012, "Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining", Journal of Database Marketing & Customer Strategy Management, vol. 19, no. 3, pp. 197-208.  
