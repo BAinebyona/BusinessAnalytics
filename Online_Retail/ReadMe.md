@@ -2,11 +2,9 @@ In this series of notebooks we shall carry out Business Analytics for a UK-based
 
 - data cleaning
 - perform data anlysis on this dataset with a view to drive insights to this particular retailer
-    - trends in sales
-    - best and worst seller items
-    - seasons of sales
-    - Most valuable customers and their characteristics
-    - Least valuable customers
+    - Trend in customer acquisition
+    - Trend in Total unique customers placing orders
+    - Trend in Revenue
     - best seller products
     - importance of different market regions
 - Perform user-centric analysis
